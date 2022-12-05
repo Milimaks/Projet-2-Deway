@@ -27,9 +27,6 @@ Enfin, l'API de JCDecaux permet d'afficher les informations relatives aux Vélô
 
 Ce qu'il est requis pour commencer avec votre projet...
 
-- Programme 1
-- Programme 2
-- etc...
 
 ## Fabriqué avec
 
