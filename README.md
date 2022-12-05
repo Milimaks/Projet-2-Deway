@@ -3,6 +3,10 @@
 Né de la collaboration entre quatre développeurs en formation - Anaïs, Marie-Hermine, Maxime et Thomas, l'application DeWay a pour objectif de proposer l'ensemble des offres d'emploi de développement informatique (ROME M1805) dans la région de Toulouse, disponibles sur le site de Pôle emploi.
 
 DeWay se présente sous la forme d'une carte où vous pouvez rechercher des offres d'emploi dans Toulouse et sa région. En cliquant sur un <i>marker</i>, vous aurez accès aux informations principales de l'offre d'emploi (titre, entreprise, type de poste, expérience). Vous pouvez également accéder à l'ensemble des informations de l'offre en cliquant sur "Voir plus". Enfin, il est possible la page Pôle Emploi en cliquant sur le bouton "Postuler".
+
+Projet : https://deway.netlify.app/
+
+
 ## L'utilisation d'APIs
 
 Le développement de l'application repose sur le croisement de données d'origine divers. 
